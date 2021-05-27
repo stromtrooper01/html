@@ -1,0 +1,16 @@
+.skills {
+	padding: 0px;
+	margin: 0px;
+}
+
+.skills_item {
+	display: block;
+	background: url(../img/bug.png) no-repeat left center;
+}
+.skills_heading {
+	display: inline;
+}
+
+.skills_intro {
+	display: inline;
+}
